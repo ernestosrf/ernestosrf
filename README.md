@@ -1,11 +1,11 @@
-<div>  
-  <a href="https://github.com/ernestosrf">
-  <img height="180em" src="https://github-readme-stats-ernestosrf-ernesto-reis-projects.vercel.app/api?username=ernestosrf&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ernestosrf&layout=compact&langs_count=6&theme=tokyonight"/>
- 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ernestosrf&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ernestosrf&locale=en&hide_title=false&layout=compact&langs_count=5&theme=dark&hide_border=false" alt="languages graph"  />
+
+  
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ernestosrf&theme=dark&hide_border=false)<br/>
 </div>
-<div style="display: inline_block"><br>
+<div style="display: inline_block" align="center"><br>
   <img align="center" alt="Nodejs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
   <img align="center" alt="Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
@@ -25,3 +25,7 @@
   <a href="https://www.linkedin.com/in/ernesto-reis-708023232/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 </div>
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/ernestosrf/ernestosrf/output/snake.svg" alt="Snake animation" />
