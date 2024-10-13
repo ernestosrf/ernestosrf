@@ -1,6 +1,6 @@
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ernestosrf&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ernestosrf&locale=en&hide_title=false&layout=compact&langs_count=5&theme=dark&hide_border=false" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=ernestosrf&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" alt="stats graph" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ernestosrf&locale=en&hide_title=false&layout=compact&langs_count=5&theme=dark&hide_border=false" alt="languages graph" height="200" />
 
   
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ernestosrf&theme=dark&hide_border=false)<br/>
@@ -17,10 +17,9 @@
 </div>
 
  <br>
+<div align="center"> 
+  <h3>Minhas redes sociais se encontram abaixo!</h3>
 
-  ### Minhas redes sociais se encontram abaixo!
-
-<div> 
   <a href="https://instagram.com/ernestosrf" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/ernesto-reis-708023232/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
