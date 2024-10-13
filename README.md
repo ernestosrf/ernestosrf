@@ -1,6 +1,6 @@
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ernestosrf&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" alt="stats graph" height="200" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ernestosrf&locale=en&hide_title=false&layout=compact&langs_count=5&theme=dark&hide_border=false" alt="languages graph" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ernestosrf&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" alt="stats graph" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ernestosrf&locale=en&hide_title=false&layout=compact&langs_count=5&theme=dark&hide_border=false" alt="languages graph" height="150" />
 
   
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ernestosrf&theme=dark&hide_border=false)<br/>
