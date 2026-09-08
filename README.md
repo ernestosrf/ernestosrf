@@ -1,9 +1,19 @@
 <div align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=ernestosrf&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" alt="stats graph" height="150" />
-  <img src="https://github-readme-stats.shion.dev/api/top-langs?username=ernestosrf&locale=en&hide_title=false&layout=compact&langs_count=5&theme=dark&hide_border=false" alt="languages graph" height="150" />
-
-  
-![](https://github-readme-streak-stats.herokuapp.com/?user=ernestosrf&theme=dark&hide_border=false)<br/>
+  <img
+    src="./profile/stats.svg"
+    alt="stats graph"
+    height="150"
+  />
+  <img
+    src="./profile/top-langs.svg"
+    alt="languages graph"
+    height="150"
+  />
+  <br/>
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=ernestosrf&theme=dark&hide_border=false"
+    alt="GitHub Streak"
+  />
 </div>
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Nodejs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
