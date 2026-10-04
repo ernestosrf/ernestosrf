@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Ernesto Reis&#39; GitHub Stats, Rank: A-</title>
-        <desc id="descId">Total Stars Earned: 62, Total Commits  : 2796, Total PRs: 295, Total Issues: 13, Contributed to (last year): 6</desc>
+        <desc id="descId">Total Stars Earned: 62, Total Commits  : 2796, Total PRs: 295, Total Issues: 13, Contributed to (last year): 4</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -229,7 +229,7 @@
         x="224.01"
         y="12.5"
         data-testid="contribs"
-      >6</text>
+      >4</text>
     </g>
   </g>
     </svg>
