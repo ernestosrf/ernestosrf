@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Ernesto Reis&#39; GitHub Stats, Rank: A-</title>
-        <desc id="descId">Total Stars Earned: 62, Total Commits  : 2856, Total PRs: 298, Total Issues: 13, Contributed to (last year): 4</desc>
+        <desc id="descId">Total Stars Earned: 62, Total Commits  : 2857, Total PRs: 298, Total Issues: 13, Contributed to (last year): 4</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 65.3059755273433;
+        stroke-dashoffset: 65.3019666580514;
       }
     }
   
