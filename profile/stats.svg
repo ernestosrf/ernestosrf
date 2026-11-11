@@ -8,8 +8,8 @@
         role="img"
         aria-labelledby="descId"
       >
-        <title id="titleId">Ernesto Reis&#39; GitHub Stats, Rank: A-</title>
-        <desc id="descId">Total Stars Earned: 62, Total Commits  : 2858, Total PRs: 299, Total Issues: 27, Contributed to (last year): 5</desc>
+        <title id="titleId">Ernesto Reis&#39; GitHub Stats, Rank: A</title>
+        <desc id="descId">Total Stars Earned: 62, Total Commits  : 2865, Total PRs: 299, Total Issues: 27, Contributed to (last year): 5</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 66.13903923161776;
+        stroke-dashoffset: 62.408671758676135;
       }
     }
   
@@ -150,7 +150,7 @@
         <g class="rank-text">
           
         <text x="-5" y="3" alignment-baseline="central" dominant-baseline="central" text-anchor="middle" data-testid="level-rank-icon">
-          A-
+          A
         </text>
       
         </g>
